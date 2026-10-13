@@ -1,0 +1,10 @@
+// 1. Abstracts (Khai báo Variables & Mixins trước)
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+// 2. Base (Định dạng cơ bản)
+@import "base/typography";
+
+// 3. Components (Các thành phần UI)
+@import "components/buttons";
+@import "components/cards";
