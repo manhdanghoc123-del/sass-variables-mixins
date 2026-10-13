@@ -1,0 +1,5 @@
+// Áp dụng mixin box-style cho component card
+.card {
+  @include box-style;
+  margin-top: 15px;
+}
