@@ -1,0 +1,4 @@
+// Áp dụng mixin button-style với màu primary
+.button {
+  @include button-style($primary-color);
+}
